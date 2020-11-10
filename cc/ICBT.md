@@ -11,13 +11,13 @@ Creating a vibrant tech community within the central province.
 * Lasitha Munasinghe
 * Tharusha Kiriwandeniya
 * Gayan  Wijesundara
-*Dev Terace Thomas
-*Hakeema Ismail
-*Pavitra Rathnayaka
-*Anurudda Kumara
-*Asha Boyangoda
-*Hashan Sathsara
-*Chris Sachintha
+* Dev Terace Thomas
+* Hakeema Ismail
+* avitra Rathnayaka
+* Anurudda Kumara
+* Asha Boyangoda
+* Hashan Sathsara
+* Chris Sachintha
 
 
 ## How to join?
